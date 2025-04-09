@@ -31,7 +31,7 @@ The document includes:
 
 Below is a high-level view of the system architecture:
 
-![System Diagram](https://github.com/Edd022/AI2048/blob/main/Workshop_1/w_1_SystemDesign.pdf)
+[System Diagram](https://github.com/Edd022/AI2048/blob/main/Workshop_1/w_1_SystemDesign.pdf)
 
 ---
 
