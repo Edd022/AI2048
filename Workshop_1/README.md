@@ -16,7 +16,7 @@ Design and document a self-adaptive agent that:
 
 You can find the full system design document for Workshop 1 here:
 
-[Workshop 1 — System Design PDF](https://github.com/Edd022/AI2048/blob/main/Workshop_1)
+[Workshop 1 — System Design PDF](https://github.com/Edd022/AI2048/blob/main/Workshop_1/Workshop_1.pdf)
 
 The document includes:
 - Functional Specifications (Sensors, Actuators, Reward Function)
