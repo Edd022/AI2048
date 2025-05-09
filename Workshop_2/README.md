@@ -3,7 +3,7 @@
 
 **Workshop 2 README.md** (`/Workshop_2/README.md`):
 
-```markdown
+
 # Workshop 2 – Dynamical Systems Analysis & Design
 
 This folder contains the deliverables for Workshop 2 of the Systems Sciences course, focusing on the dynamic behavior of the 2048 RL agent.
